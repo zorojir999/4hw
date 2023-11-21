@@ -1,3 +1,4 @@
 from art import tprint
-tprint("PYTHON")
-
+from class1 import HI
+name = HI('Bektur')
+tprint(str(name))
